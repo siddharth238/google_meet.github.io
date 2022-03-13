@@ -22,7 +22,7 @@
 
    
 </div>
-[https://siddharth-meetclone.netlify.app/](https://reactjs.org/)
+[Live*](https://siddharth-meetclone.netlify.app/)
 
 
 <!-- TABLE OF CONTENTS -->
