@@ -1,0 +1,57 @@
+
+
+  .video{
+    background-color: #ffffff;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    object-fit: cover;
+   }
+
+  .participant {
+    background-color: #ffffff;
+    height: 100%;
+    width: 100%;
+    position: relative;
+     
+    min-height: 200px
+  }
+ 
+
+  .hide {
+    display: none;
+  }
+
+  .avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    font-size: 150px;
+    font-family: roboto, arial;
+    color: rgb(34, 34, 34);
+    text-align: center;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+  }
+
+  .name {
+    color: rgb(170, 170, 170);
+    bottom: 10px;
+    position: absolute;
+    left: 20px;
+  }
+
+  @media (max-width: 800px) {
+    .participant{
+      min-height: 0px;
+    }
+    .avatar {
+      width: 80px;
+      height: 80px;
+      font-size: 50px;
+    }
+  }

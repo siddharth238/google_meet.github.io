@@ -1,0 +1,33 @@
+.meeting-footer{
+    background: #ffffff; 
+    height: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.meeting-icons{
+    color: rgb(0, 0, 0);
+    border-radius: 50%;
+    background:#ffffff;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.meeting-icons:hover{
+  background-color:   #d6d6d6;
+}
+.active{
+  background-color:   #d6d6d6;
+}
+
+div[disabled]
+{
+  pointer-events: none;
+  opacity: 0.3;
+}
