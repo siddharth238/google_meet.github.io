@@ -98,7 +98,7 @@ _Below is an example of how you can instruct your audience on installing and set
     
  
  
-
+5. Open the Url below and share the same url after opening to view the results
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -112,6 +112,8 @@ _Below is an example of how you can instruct your audience on installing and set
 Siddharth Pampana - [Linkedin](https://www.linkedin.com/in/siddharth-p-193125201/) - siddharth_pampana@srmap.edu.in
 
 Project Link: [Find the app live hosted on Netlify]( https://siddharth-meetclone.netlify.app/)
+  Open the Url  and share the same url after opening to view the results
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
  
