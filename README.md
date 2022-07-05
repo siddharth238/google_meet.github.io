@@ -18,7 +18,7 @@
  <img src="https://i.ibb.co/jZ35V1N/Screenshot-2022-03-13-162006.png" alt="Screenshot-2022-03-13-162006" border="0" /> 
  <img src="https://i.ibb.co/M9Wdj4h/Screenshot-2022-03-13-162130.png" alt="Screenshot-2022-03-13-162130" border="0"/>
  <img src="https://i.ibb.co/fnhb4cb/Screenshot-20220313-161928.jpg" alt="Screenshot-20220313-161928" border="0"/> 
-  <h3 align="center"> </h3>
+  <h3 align="center">Web compatabilty is failing in some devices hence the app cannot be viewed in some devices </h3>
 
    
 </div>
